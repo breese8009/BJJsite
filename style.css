@@ -1,0 +1,146 @@
+.jumbotron {
+
+	text-align:center;
+	margin-top:20px;
+	max-width:600px;
+	margin-left:auto;
+	margin-right:auto;
+	border:blue 1px dotted;
+
+}
+
+.divider {
+
+	width:100%;
+	border:black 1px solid;
+
+
+}
+
+.rotate {
+
+	transform: rotate(720deg);
+	transition:1s ease-in-out all;
+
+}
+
+.dates {
+
+	background-color:#B4D5FA;
+	border:black 1px solid;
+}
+
+.classes {
+
+	border-left:black 1px solid;
+}
+
+
+
+#headerFont {
+
+	margin:60px;
+	position:absolute;
+	color:white;
+	font-size:30px;
+}
+
+#imageCircle,#imageCircle2,#imageCircle3 {
+
+	max-height:200px;
+	max-width:200px;
+
+}
+
+.navHeader {
+
+	text-align:center;
+	padding:10px;
+}
+
+#sign-up-form {
+
+	background-color:#BEBFBB;
+	text-align:center;
+	
+}
+
+#form-header {
+	text-align:center;
+}
+
+
+#border {
+
+	border:black 1px solid;
+	border-top:black 1px solid;
+}
+
+#headerImages {
+
+	max-width:400px;
+	max-height:400px;
+	margin-left:auto;
+	margin-right:auto;
+	float:left;
+
+}
+
+.contactInfo {
+
+	position:inline;
+}
+
+#new-person-form {
+
+	border-left:black 1px solid;
+	padding:30px;
+}
+
+.carousel-images{
+
+	text-align:center;
+	width:100%;
+	height:100%;
+
+}
+
+#mc_embed_signup{
+
+	background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; 
+
+}
+
+
+.carousel-caption {
+
+	background-color:black;
+	color:#FAFBFC;
+	opacity:.50;
+	height:300px;
+	font-size:60px;
+	font-family: sans-serif;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
